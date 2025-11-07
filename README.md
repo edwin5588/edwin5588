@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m an AI/ML engineer focused on building intelligent systems that turn data into real-world impact. My work spans machine learning, deep learning, computer vision, and natural language processing — from model development and optimization to scalable deployment. I’m passionate about solving complex problems with clean engineering, research-backed methods, and practical applications.
+Hey, I’m Edwin — an AI/ML engineer with 3+ years of experience developing ML pipelines and scalable AI systems. I’ve worked across model training, GPU optimization, deployment, and full-stack integration. Lately, I’ve been focused on designing AI agents that reason, automate, and collaborate effectively with humans.
 
 
 <!--
