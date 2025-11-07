@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I’m an AI/ML engineer focused on building intelligent systems that turn data into real-world impact. My work spans machine learning, deep learning, computer vision, and natural language processing — from model development and optimization to scalable deployment. I’m passionate about solving complex problems with clean engineering, research-backed methods, and practical applications.
+
+
 <!--
 **edwin5588/edwin5588** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,46 +19,54 @@ Here are some ideas to get you started:
 -->
 ## 🌐 Projects
 
-<div align="left">
+<div align="center">
 
-### 🧬 <a href="https://copilot.genepattern.org/">Bioinformatics Copilot</a>
-AI-assisted research companion for the <a href="https://genepattern.org">GenePattern</a> platform at UC San Diego Health.  
-Supports multimodal data analysis, code generation, and workflow automation for genomics and bioinformatics researchers.  
-<b>Tech stack:</b> Python · LangChain · AWS · LLMs  
+<table>
+  <tr>
+    <td width="50%" style="border:1px solid #444; border-radius:12px; padding:15px; vertical-align:top;">
+      <h3>🧬 <a href="https://copilot.genepattern.org/">Bioinformatics Copilot</a></h3>
+      <p>AI-assisted research companion for the GenePattern platform.<br>Supports multimodal data analysis and workflow automation.</p>
+      <p><b>Stack:</b> Python · LangChain · AWS · LLMs</p>
+    </td>
+    <td width="50%" style="border:1px solid #444; border-radius:12px; padding:15px; vertical-align:top;">
+      <h3>🧫 <a href="https://ampliconrepository.org/">Cancer Sample ecDNA Explorer</a></h3>
+      <p>Interactive portal for exploring extrachromosomal DNA (ecDNA) across cancer samples.</p>
+      <p><b>Stack:</b> Django · MongoDB · JS</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+----
+## 📚 Publications
+
+**Luebeck J, Huang E**, et al.  
+*AmpliconSuite: Analyzing Focal Amplifications in Cancer Genomes.*  
+_Genomics and Informatics_, 2024.  
+[🔗 ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S221077622400053X?via%3Dihub)  
+→ Deployed ML pipelines and a cloud-hosted repository for large-scale ecDNA analysis, enabling reproducible research across 20 + projects (funded >$25 M).
 
 ---
 
-### 🧫 <a href="https://ampliconrepository.org/">Cancer Sample ecDNA Explorer</a>
-Interactive web portal for exploring extrachromosomal DNA (ecDNA) structures across cancer samples, integrating amplicon-level annotations and genomic rearrangements.  
-<b>Tech stack:</b> Django · MongoDB · JS  
+**Liefeld T, Huang E**, Wenzel A, Yoshimoto K, Sharma A, Sicklick J, Mesirov J, Reich M.  
+*NMF Clustering: Accessible NMF-based Clustering Utilizing GPU Acceleration.*  
+_Genomics and Informatics_, 2024.  
+[🔗 Fortune Journals](https://www.fortunejournals.com/articles/nmf-clustering-accessible-nmfbased-clustering-utilizing-gpu-acceleration.html)  
+→ Implemented RAPIDS AI, CuPy, and custom CUDA kernels to achieve 27× runtime speedup on HPC clusters.
 
-</div>
+---
 
+**Reich M, Tabor T, Liefeld J, Huang E**, Kim F, Mesirov J.  
+*The GenePattern Ecosystem for Cancer Bioinformatics.*  
+_AACR Cancer Research (Abstract 7426)_, 2024.  
+[🔗 AACR Abstract](https://aacrjournals.org/cancerres/article/84/6_Supplement/7426/735210/Abstract-7426-The-GenePattern-ecosystem-for-cancer)  
+→ Presented cloud-based GenePattern workflows supporting cancer informatics and LLM integration.
 
-## 📚 Publications
+---
 
-<div align="left">
-
-<h3>🧬 <a href="https://www.sciencedirect.com/science/article/abs/pii/S221077622400053X?via%3Dihub">AmpliconSuite: Analyzing Focal Amplifications in Cancer Genomes</a></h3>
-<p><b>Luebeck J, Huang E</b>, et al. <i>Genomics and Informatics</i>, 2024.<br>
-Deployed ML pipelines and a cloud-hosted repository for large-scale ecDNA analysis in cancer, enabling reproducible research across 20 + projects (funded >$25 M).</p>
-
-<hr>
-
-<h3>⚙️ <a href="https://www.fortunejournals.com/articles/nmf-clustering-accessible-nmfbased-clustering-utilizing-gpu-acceleration.html">NMF Clustering: Accessible NMF-based Clustering Utilizing GPU Acceleration</a></h3>
-<p><b>Liefeld T, Huang E</b>, Wenzel A, Yoshimoto K, Sharma A, Sicklick J, Mesirov J, Reich M. <i>Genomics and Informatics</i>, 2024.<br>
-Researched GPU-accelerated clustering using RAPIDS AI, CuPy, and custom CUDA kernels → 27× speedup on HPC infrastructure.</p>
-
-<hr>
-
-<h3>🧫 <a href="https://aacrjournals.org/cancerres/article/84/6_Supplement/7426/735210/Abstract-7426-The-GenePattern-ecosystem-for-cancer">The GenePattern Ecosystem for Cancer Bioinformatics</a></h3>
-<p><b>Reich M, Tabor T, Liefeld J, Huang E</b>, Kim F, Mesirov J. <i>AACR Cancer Research (Abstract 7426)</i>, 2024.<br>
-Presented scalable cloud-based GenePattern workflows integrating LLMs for reproducible cancer informatics.</p>
-
-<hr>
-
-<h3>💻 <a href="https://www.fortunejournals.com/articles/genomics-to-notebook-g2nb-extending-the-electronic-notebook-to-address-the-challenges-of-bioinformatics-analysis.html">Genomics to Notebook (g2nb): Extending the Electronic Notebook for Bioinformatics Analysis</a></h3>
-<p><b>Reich M, Tabor T, Liefeld J, Joshi J, Kim F, Huang E</b>, Thorvaldsdottir H, Blankenberg D, Mesirov J. <i>Genomics and Informatics</i>, 2024.<br>
-Contributed to extending Jupyter-based g2nb infrastructure for reproducible and scalable bioinformatics workflows.</p>
-
-</div>
+**Reich M, Tabor T, Liefeld J, Joshi J, Kim F, Huang E**, Thorvaldsdottir H, Blankenberg D, Mesirov J.  
+*Genomics to Notebook (g2nb): Extending the Electronic Notebook to Address the Challenges of Bioinformatics Analysis.*  
+_Genomics and Informatics_, 2024.  
+[🔗 Fortune Journals](https://www.fortunejournals.com/articles/genomics-to-notebook-g2nb-extending-the-electronic-notebook-to-address-the-challenges-of-bioinformatics-analysis.html)  
+→ Contributed to extending Jupyter-based infrastructure (g2nb) for scalable bioinformatics workflows.
