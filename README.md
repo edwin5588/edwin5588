@@ -14,13 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ## 🌐 Projects
 
-| Project | Description | Tech Stack | Link |
-|----------|--------------|-------------|------|
-| **Bioinformatics Copilot** | AI-assisted research companion built for the [GenePattern](https://genepattern.org) platform at UC San Diego Health. Supports multimodal data analysis, code generation, and interactive workflow automation for genomics and bioinformatics researchers. | Python · LangChain · AWS · LLMs | 🔗 [copilot.genepattern.org](https://copilot.genepattern.org) |
-| **Cancer Sample ecDNA Explorer** | Interactive web portal for exploring extrachromosomal DNA (ecDNA) structures across cancer samples, integrating amplicon-level annotations and visualization of genomic rearrangements. | Django · MongoDB · JS | 🔗 [ampliconrepository.org](https://ampliconrepository.org) |
+<div align="left">
+
+### 🧬 <a href="https://copilot.genepattern.org/">Bioinformatics Copilot</a>
+AI-assisted research companion for the <a href="https://genepattern.org">GenePattern</a> platform at UC San Diego Health.  
+Supports multimodal data analysis, code generation, and workflow automation for genomics and bioinformatics researchers.  
+<b>Tech stack:</b> Python · LangChain · AWS · LLMs  
+
+---
+
+### 🧫 <a href="https://ampliconrepository.org/">Cancer Sample ecDNA Explorer</a>
+Interactive web portal for exploring extrachromosomal DNA (ecDNA) structures across cancer samples, integrating amplicon-level annotations and genomic rearrangements.  
+<b>Tech stack:</b> Django · MongoDB · JS  
+
+</div>
 
 
 ## 📚 Publications
