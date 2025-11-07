@@ -14,7 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📚 Some Publications
+
+## 🌐 Projects
+
+| Project | Description | Tech Stack | Link |
+|----------|--------------|-------------|------|
+| **Bioinformatics Copilot** | AI-assisted research companion built for the [GenePattern](https://genepattern.org) platform at UC San Diego Health. Supports multimodal data analysis, code generation, and interactive workflow automation for genomics and bioinformatics researchers. | Python · LangChain · AWS · LLMs | 🔗 [copilot.genepattern.org](https://copilot.genepattern.org) |
+| **Cancer Sample ecDNA Explorer** | Interactive web portal for exploring extrachromosomal DNA (ecDNA) structures across cancer samples, integrating amplicon-level annotations and visualization of genomic rearrangements. | Django · MongoDB · JS | 🔗 [ampliconrepository.org](https://ampliconrepository.org) |
+
+
+## 📚 Publications
 
 - **Luebeck J, Huang E**, et al.  
   *AmpliconSuite: Analyzing Focal Amplifications in Cancer Genomes.*  
