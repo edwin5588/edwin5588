@@ -34,32 +34,28 @@ Interactive web portal for exploring extrachromosomal DNA (ecDNA) structures acr
 
 ## 📚 Publications
 
-- **Luebeck J, Huang E**, et al.  
-  *AmpliconSuite: Analyzing Focal Amplifications in Cancer Genomes.*  
-  *Genomics and Informatics, 2024.*  
-  [Link](https://www.sciencedirect.com/science/article/abs/pii/S221077622400053X?via%3Dihub)  
-  - Deployed machine learning pipelines and a cloud-hosted repository for large-scale ecDNA analysis in cancer, enabling reproducible research across 20+ projects. Part of a $25M publicly and privately funded project.
+<div align="left">
 
----
+<h3>🧬 <a href="https://www.sciencedirect.com/science/article/abs/pii/S221077622400053X?via%3Dihub">AmpliconSuite: Analyzing Focal Amplifications in Cancer Genomes</a></h3>
+<p><b>Luebeck J, Huang E</b>, et al. <i>Genomics and Informatics</i>, 2024.<br>
+Deployed ML pipelines and a cloud-hosted repository for large-scale ecDNA analysis in cancer, enabling reproducible research across 20 + projects (funded >$25 M).</p>
 
-- **Liefeld T, Huang E**, Wenzel A, Yoshimoto K, Sharma A, Sicklick J, Mesirov J, Reich M.  
-  *NMF Clustering: Accessible NMF-based Clustering Utilizing GPU Acceleration.*  
-  *Genomics and Informatics, 2024.*  
-  [Link](https://www.fortunejournals.com/articles/nmf-clustering-accessible-nmfbased-clustering-utilizing-gpu-acceleration.html)  
-  - Researched GPU-accelerated clustering methods; implemented RAPIDS AI, CuPy, and custom CUDA kernels to achieve 27× runtime speedup on HPC infrastructure.
+<hr>
 
----
+<h3>⚙️ <a href="https://www.fortunejournals.com/articles/nmf-clustering-accessible-nmfbased-clustering-utilizing-gpu-acceleration.html">NMF Clustering: Accessible NMF-based Clustering Utilizing GPU Acceleration</a></h3>
+<p><b>Liefeld T, Huang E</b>, Wenzel A, Yoshimoto K, Sharma A, Sicklick J, Mesirov J, Reich M. <i>Genomics and Informatics</i>, 2024.<br>
+Researched GPU-accelerated clustering using RAPIDS AI, CuPy, and custom CUDA kernels → 27× speedup on HPC infrastructure.</p>
 
-- **Reich M, Tabor T, Liefeld J, Huang E**, Kim F, Mesirov J.  
-  *The GenePattern Ecosystem for Cancer Bioinformatics.*  
-  *AACR Cancer Research, Abstract 7426, 2024.*  
-  [Link](https://aacrjournals.org/cancerres/article/84/6_Supplement/7426/735210/Abstract-7426-The-GenePattern-ecosystem-for-cancer)  
-  - Presented abstract on scalable, cloud-based GenePattern workflows supporting cancer informatics and LLM integration in reproducible research.
+<hr>
 
----
+<h3>🧫 <a href="https://aacrjournals.org/cancerres/article/84/6_Supplement/7426/735210/Abstract-7426-The-GenePattern-ecosystem-for-cancer">The GenePattern Ecosystem for Cancer Bioinformatics</a></h3>
+<p><b>Reich M, Tabor T, Liefeld J, Huang E</b>, Kim F, Mesirov J. <i>AACR Cancer Research (Abstract 7426)</i>, 2024.<br>
+Presented scalable cloud-based GenePattern workflows integrating LLMs for reproducible cancer informatics.</p>
 
-- **Reich M, Tabor T, Liefeld J, Joshi J, Kim F, Huang E**, Thorvaldsdottir H, Blankenberg D, Mesirov J.  
-  *Genomics to Notebook (g2nb): Extending the Electronic Notebook to Address the Challenges of Bioinformatics Analysis.*  
-  *Genomics and Informatics, 2024.*  
-  [Link](https://www.fortunejournals.com/articles/genomics-to-notebook-g2nb-extending-the-electronic-notebook-to-address-the-challenges-of-bioinformatics-analysis.html)  
-  - Contributed to extending Jupyter-based infrastructure (g2nb) for reproducible, scalable bioinformatics workflows across academic and clinical settings.
+<hr>
+
+<h3>💻 <a href="https://www.fortunejournals.com/articles/genomics-to-notebook-g2nb-extending-the-electronic-notebook-to-address-the-challenges-of-bioinformatics-analysis.html">Genomics to Notebook (g2nb): Extending the Electronic Notebook for Bioinformatics Analysis</a></h3>
+<p><b>Reich M, Tabor T, Liefeld J, Joshi J, Kim F, Huang E</b>, Thorvaldsdottir H, Blankenberg D, Mesirov J. <i>Genomics and Informatics</i>, 2024.<br>
+Contributed to extending Jupyter-based g2nb infrastructure for reproducible and scalable bioinformatics workflows.</p>
+
+</div>
