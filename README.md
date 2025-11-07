@@ -57,16 +57,18 @@ _Genomics and Informatics_, 2024.
 
 ---
 
-**Reich M, Tabor T, Liefeld J, Huang E**, Kim F, Mesirov J.  
-*The GenePattern Ecosystem for Cancer Bioinformatics.*  
-_AACR Cancer Research (Abstract 7426)_, 2024.  
-[🔗 AACR Abstract](https://aacrjournals.org/cancerres/article/84/6_Supplement/7426/735210/Abstract-7426-The-GenePattern-ecosystem-for-cancer)  
-→ Presented cloud-based GenePattern workflows supporting cancer informatics and LLM integration.
-
----
 
 **Reich M, Tabor T, Liefeld J, Joshi J, Kim F, Huang E**, Thorvaldsdottir H, Blankenberg D, Mesirov J.  
 *Genomics to Notebook (g2nb): Extending the Electronic Notebook to Address the Challenges of Bioinformatics Analysis.*  
 _Genomics and Informatics_, 2024.  
 [🔗 Fortune Journals](https://www.fortunejournals.com/articles/genomics-to-notebook-g2nb-extending-the-electronic-notebook-to-address-the-challenges-of-bioinformatics-analysis.html)  
 → Contributed to extending Jupyter-based infrastructure (g2nb) for scalable bioinformatics workflows.
+
+---
+
+**Reich M, Tabor T, Liefeld J, Huang E**, Kim F, Mesirov J.  
+*The GenePattern Ecosystem for Cancer Bioinformatics.*  
+_AACR Cancer Research (Abstract 7426)_, 2024.  
+[🔗 AACR Abstract](https://aacrjournals.org/cancerres/article/84/6_Supplement/7426/735210/Abstract-7426-The-GenePattern-ecosystem-for-cancer)  
+→ Presented cloud-based GenePattern workflows supporting cancer informatics and LLM integration. 
+
